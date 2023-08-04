@@ -1,0 +1,191 @@
+Package: com.cann66.befastfilza
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: Cann66 <cann66dev@gmail.com>
+Installed-Size: 136
+Depends: mobilesubstrate
+Filename: debs/com.cann66.befastfilza_1.1_iphoneos-arm.deb
+Size: 3870
+MD5sum: f02650c32e70b58b38ac1cbbc563d1eb
+SHA1: c903513cea4ac09ec7c8a0f711d0a99410f68572
+SHA256: f7c41ebe03b90b77c68928d3c34de1dec05982ee85d74b5777dbca5e6ba1bc8f
+Section: Tweaks
+Description: Make Filza faster
+Author: Cann66
+Name: Be Fast Filza
+
+Package: com.cann66.blackjackhack
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Cann66 <cann66dev@gmail.com>
+Installed-Size: 136
+Depends: mobilesubstrate
+Filename: debs/com.cann66.blackjackhack_1.0_iphoneos-arm.deb
+Size: 2962
+MD5sum: 2f0a883ecc5d74484c235067e45e0bad
+SHA1: b68d1450a22c15af446bbfb88e74590aab7318da
+SHA256: fef59e9fc8778f11ebbfb85177dc6f4f11440d1b71d61505d2ed1b67b3ef56a9
+Section: Tweaks
+Description: Cards are always shown face up
+Author: Cann66
+Name: Blackjack Card Hack
+
+Package: com.cann66.cleanmyut
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Cann66
+Installed-Size: 200
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/com.cann66.cleanmyut_1.0_iphoneos-arm.deb
+Size: 3166
+MD5sum: 7aa216a7350ad9ba539273043cba3fe0
+SHA1: 788465983d42c1ff10691458758cce7d87d36e80
+SHA256: 3c9e524445f48775565268b008e27321f0d8237fd1641812a69eb447f063d01e
+Section: Tweaks
+Description: Don't talk! just clean my lockscreen text
+Author: Cann66
+Name: CleanMyUT
+
+Package: com.cann66.clearmycc
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Cann66
+Installed-Size: 136
+Depends: mobilesubstrate
+Filename: debs/com.cann66.clearmycc_1.0_iphoneos-arm.deb
+Size: 3114
+MD5sum: 8a2d778a727a0f382f3c19b757f38681
+SHA1: f544acb7eb785c919d429621e62f6bb31c179273
+SHA256: 95be0141e6ded1b68d5813bc8f08591aac06c5e046dbb9d352d5bcc8ca3ab25e
+Section: Tweaks
+Description: It make your CC clean and speed up your device a bit more
+Author: Cann66
+Name: ClearMyCC
+
+Package: com.cann66.freemarket
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Cann66
+Installed-Size: 156
+Depends: mobilesubstrate
+Filename: debs/com.cann66.freemarket_1.0_iphoneos-arm.deb
+Size: 3340
+MD5sum: 12168a58200261dec8431555e15fe84b
+SHA1: 9ef22a942feb529b75df9d1f57fd633b9b900813
+SHA256: bd4f5a55dbae1eb19e62d4882e9baeee13f9b8bb28e445df5500bbe1f83a5825
+Section: Tweaks
+Description: Change "Get" to "Free" in the Appstore
+Author: Cann66
+Name: Free Market
+
+Package: com.cann66.hidemyfolders
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Cann66
+Installed-Size: 136
+Depends: mobilesubstrate
+Filename: debs/com.cann66.hidemyfolders_1.0_iphoneos-arm.deb
+Size: 3186
+MD5sum: 1c601513bb16e45833b2fed8d99540cd
+SHA1: bb94aefee7352c0d8cc100ffd3c42cd73c39f53a
+SHA256: cf7b1f2d2e401bf562d0e380febe8b562dae7417772b3777cf3cd17015e760c9
+Section: Tweaks
+Description: Make the folder icons transparent.
+Author: Cann66
+Name: HideMyFolders
+
+Package: com.cann66.phonetabs
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: Cann66 <cann66dev@gmail.com>
+Installed-Size: 136
+Depends: mobilesubstrate
+Filename: debs/com.cann66.phonetabs_1.1_iphoneos-arm.deb
+Size: 3344
+MD5sum: 7a82f3f5c7de01c7ce45d90739f03c25
+SHA1: bb43020c018e6e663ad3b170a910ca5653b2d49b
+SHA256: 16087baf813425806319ee875b86c32bcfda02a70b53943ea0dd44f0f745aa60
+Section: Tweaks
+Description: Disable Tabs
+Author: Cann66
+Name: Phone Tabs
+
+Package: com.cann66.starvpnpremium
+Version: 1.2
+Architecture: iphoneos-arm
+Maintainer: cann66 <cann66dev@gmail.com>
+Installed-Size: 136
+Depends: mobilesubstrate
+Filename: debs/com.cann66.starvpnpremium_1.2_iphoneos-arm.deb
+Size: 3056
+MD5sum: c2d5f17a658a79f1ba32ea28c3111fcc
+SHA1: 99ebdbfb80a665d81361fd833d6e652ae9eb54f7
+SHA256: 4e648e0e8906d340fdbac94e4a2a0e66ef5a1bc31c4036ef8691e3ff9d4df20f
+Section: Tweaks
+Description: Premium features for free
+Author: Cann66
+Name: Star VPN Premium
+
+Package: com.cann66.turbovpnpremium
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Cann66
+Installed-Size: 200
+Depends: mobilesubstrate
+Filename: debs/com.cann66.turbovpnpremium_1.0_iphoneos-arm.deb
+Size: 3896
+MD5sum: c8db4d74f021cefab0d89d2764568397
+SHA1: eaecd9103e3ce983df3ea8cde9e39f11fa7f3144
+SHA256: 3972db797157fb8c906b3cc446217377b12523868fd42c45f595f6dec284a958
+Section: Tweaks
+Description: Premium features for free
+Author: Cann66
+Name: Turbo VPN Premium
+
+Package: com.cann66.volumelock
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Cann66
+Installed-Size: 156
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.3)
+Filename: debs/com.cann66.volumelock_0.0.1_iphoneos-arm.deb
+Size: 4470
+MD5sum: 613854d7feabaa37dbbb7f2ffec80d7d
+SHA1: 0abf6d4198afdb97f44b2bad05034c700007e48a
+SHA256: efd46ee0baab531f63d5928df2ac0385cdd6017676205ead1df496062936cc06
+Section: Tweaks
+Description: Lock volume changing by pressing both volume buttons down
+Author: Cann66
+Name: VolumeLock
+
+Package: com.cann66.whereismydock
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Cann66
+Installed-Size: 200
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/com.cann66.whereismydock_1.0_iphoneos-arm.deb
+Size: 3172
+MD5sum: d73a111c534ac9d883fc21f56e043b04
+SHA1: 2610a8a15818364c55c1a54654e313d2c27a3098
+SHA256: a3b82f40fe6acb6b4f6237147349985df2cee514ba21a9ec35bf5797822a3493
+Section: Tweaks
+Description: WTF! Where is my dock gone?
+Author: Cann66
+Name: WhereIsMyDock
+
+Package: com.cann66.youtumium
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Cann66
+Installed-Size: 200
+Depends: mobilesubstrate
+Filename: debs/com.cann66.youtumium_0.0.1_iphoneos-arm.deb
+Size: 3644
+MD5sum: bde78ef30131fb032648543ed738327c
+SHA1: 90c8b6b21ab78335ef9380e83d45f01eea43049f
+SHA256: f2d17b1617f62ffcbff74f87a272a92d5aa5bedbe526220d6d49b09c8ca98486
+Section: Tweaks
+Description: Disable Ad when play Youtube video and Enable Youtube Audio to play on Background.
+Author: Cann66
+Name: Youtumium
