@@ -4,9 +4,9 @@
   "itemCornerRadius": 10,
   "banners": [
     {
-        "url": "https://raw.githubusercontent.com/thestrugglingdoge/repo/gh-pages/assets/Banners/Darkify.png",
-        "title": "Darkify",
-        "package": "com.struggling.darkify",
+        "url": "https://raw.githubusercontent.com/thestrugglingdoge/repo/gh-pages/assets/Banners/IMG_2774.png",
+        "title": "BeFastFilza",
+        "package": "com.cann66.befastfilza",
         "hideShadow": false
     }
   ]
