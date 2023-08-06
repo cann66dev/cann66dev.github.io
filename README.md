@@ -3,9 +3,9 @@
 
 
 ### 🧰 Support
-- Email: devthecank@gmail.com
-- Discord: Cank#1512
-- Instagram: https://www.instagram.com/caank23/
+- Email: cann66dev@gmail.com
+- Discord: cann66dev
+- Instagram: https://twitter.com/cann66dev
 
 ##  
 
