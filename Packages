@@ -17,7 +17,7 @@ Name: Be Fast Filza
 Package: com.cann66.blackjackhack
 Version: 1.0
 Architecture: iphoneos-arm
-Maintainer: Cann66 <cann66dev@gmail.com>
+Maintainer: Cann66 <cann66dev@gmail.com
 Installed-Size: 136
 Depends: mobilesubstrate
 Filename: debs/com.cann66.blackjackhack_1.0_iphoneos-arm.deb
@@ -62,6 +62,22 @@ Description: It make your CC clean and speed up your device a bit more
 Author: Cann66
 Name: ClearMyCC
 
+Package: com.cann66.dockxs
+Version: 1.01
+Architecture: iphoneos-arm
+Maintainer: Cann66 <canabi>
+Installed-Size: 136
+Depends: mobilesubstrate
+Filename: debs/com.cann66.dockxs_1.01_iphoneos-arm.deb
+Size: 2968
+MD5sum: 4c9f3f39dd7274277c3672de45565b0d
+SHA1: b5dbcca7b33c6123a41daea43e9de7f3170122b7
+SHA256: 32c6df51052d508eae27ae11c020f8d7ba5f79bd82216f9916fb117434370e74
+Section: Tweaks
+Description: Enables an iPhoneX+ like style dock on older devices.
+Author: Cann66
+Name: DockXS
+
 Package: com.cann66.freemarket
 Version: 1.0
 Architecture: iphoneos-arm
@@ -94,10 +110,42 @@ Description: Make the folder icons transparent.
 Author: Cann66
 Name: HideMyFolders
 
+Package: com.cann66.hidenon
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Cann66 <canabi>
+Installed-Size: 136
+Depends: mobilesubstrate
+Filename: debs/com.cann66.hidenon_1.0_iphoneos-arm.deb
+Size: 2994
+MD5sum: 416cd2b30c92a1eccbaca4afbb233da4
+SHA1: 5ee1f0d6aac7f4d0888530cd8b9260ff90aa344b
+SHA256: ad155e2467f15a5d4ebcd4c3339d77c7801e4db84ca2c7d61889518d2c6303e6
+Section: Tweaks
+Description: Hides the "No Older Notifications" text from the lockscreen & notification center.
+Author: Cann66
+Name: HideNon
+
+Package: com.cann66.matrixfilza
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Cann66
+Installed-Size: 136
+Depends: mobilesubstrate
+Filename: debs/com.cann66.matrixfilza_1.0_iphoneos-arm.deb
+Size: 3524
+MD5sum: cfd3d158b1fe281c0d16804eec0edf9f
+SHA1: c60151e33c911a73633f64b9ca9028a1141d382a
+SHA256: d708088726c8adc1f2d9d1d52298facddc2aafa75481ba261377667df4dcc5af
+Section: Tweaks
+Description: Black and green theme for filza
+Author: Cann66
+Name: Matrix Filza
+
 Package: com.cann66.phonetabs
 Version: 1.1
 Architecture: iphoneos-arm
-Maintainer: Cann66 <cann66dev@gmail.com>
+Maintainer: Cann66 <cann66dev@gmail.com
 Installed-Size: 136
 Depends: mobilesubstrate
 Filename: debs/com.cann66.phonetabs_1.1_iphoneos-arm.deb
@@ -109,6 +157,22 @@ Section: Tweaks
 Description: Disable Tabs
 Author: Cann66
 Name: Phone Tabs
+
+Package: com.cann66.respringfolder
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Cann66
+Installed-Size: 280
+Depends: mobilesubstrate
+Filename: debs/com.cann66.respringfolder_1.0_iphoneos-arm.deb
+Size: 4026
+MD5sum: 187142b9c2280d36a27756a18a4519d8
+SHA1: 6fa433af6d1f0f5098e448ca898ceda1e3102ad3
+SHA256: 081fbc0409d256ba81c4bd24adf6d78581873fb6ad389c7050cfbf70bd6b6acf
+Section: Tweaks
+Description: Double click on any folder to respring
+Author: Cann66
+Name: RespringFolder
 
 Package: com.cann66.starvpnpremium
 Version: 1.2
