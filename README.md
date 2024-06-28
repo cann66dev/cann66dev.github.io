@@ -3,9 +3,8 @@
 
 
 ### 🧰 Support
-- Email: cann66dev@gmail.com
-- Discord: cann66dev
-- Instagram: https://twitter.com/cann66dev
+- Discord: plamglotis
+- Twitter: https://twitter.com/devplamglotis
 
 ##  
 
