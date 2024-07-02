@@ -126,6 +126,22 @@ Description: Hides the "No Older Notifications" text from the lockscreen & notif
 Author: Cann66
 Name: HideNon
 
+Package: com.cann66.hidenosim
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Cann66
+Installed-Size: 136
+Depends: mobilesubstrate
+Filename: debs/com.cann66.hidenosim_1.0_iphoneos-arm.deb
+Size: 3208
+MD5sum: 73782c0c7fcb87f92d408390f04200cf
+SHA1: 840fb9fcf3bcff7fc1bf37b53286ee94bfadb3b1
+SHA256: 85d90a11f75aec86515d2c6fb0742539dc2dc0e6b3a7bd560af0b66f7d165cb7
+Section: Tweaks
+Description: No more annoying SIM message on the lock screen, and no more "No SIM" as our carrier.
+Author: Cann66
+Name: HideNoSim
+
 Package: com.cann66.matrixfilza
 Version: 1.0
 Architecture: iphoneos-arm
@@ -253,3 +269,4 @@ Section: Tweaks
 Description: Disable Ad when play Youtube video and Enable Youtube Audio to play on Background.
 Author: Cann66
 Name: Youtumium
+
