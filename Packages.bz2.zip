@@ -78,6 +78,22 @@ Description: Enables an iPhoneX+ like style dock on older devices.
 Author: Cann66
 Name: DockXS
 
+Package: com.cann66.drdrivinghack
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Cann66
+Installed-Size: 136
+Depends: mobilesubstrate
+Filename: debs/com.cann66.drdrivinghack_1.0_iphoneos-arm.deb
+Size: 3234
+MD5sum: 4e688c85e6d0cc96d5ab0579c1a92dad
+SHA1: 38451783f3b85d90591c8507daf1c79e9b6da4ad
+SHA256: 9b2413102b0d277490be1cf6c3bf07b431f956234629e47582dd25963e092286
+Section: Tweaks
+Description: No more ads for Dr. Driving game
+Author: Cann66
+Name: DrDrivingHack
+
 Package: com.cann66.freemarket
 Version: 1.0
 Architecture: iphoneos-arm
@@ -253,6 +269,22 @@ Section: Tweaks
 Description: WTF! Where is my dock gone?
 Author: Cann66
 Name: WhereIsMyDock
+
+Package: com.cann66.yotnoupgrade
+Version: 0.1
+Architecture: iphoneos-arm
+Maintainer: Cann66
+Installed-Size: 280
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.3)
+Filename: debs/com.cann66.yotnoupgrade_0.1_iphoneos-arm.deb
+Size: 4216
+MD5sum: 25e491a959f7eb1c8e966024c85fc47b
+SHA1: 62cff044b3774613da8db1b2f8be2ef85bb76acd
+SHA256: b9ae5c43c05a2bb2503b9f6b811ed281791e1a1acaf5b9eee5c19fc844385124
+Section: Tweaks
+Description: No more text forcing the YouTube app to update.
+Author: Cann66
+Name: YotNoUpgrade
 
 Package: com.cann66.youtumium
 Version: 0.0.1
