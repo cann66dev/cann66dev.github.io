@@ -62,6 +62,22 @@ Description: It make your CC clean and speed up your device a bit more
 Author: Cann66
 Name: ClearMyCC
 
+Package: com.cann66.cpuxpro
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Cann66
+Installed-Size: 136
+Depends: mobilesubstrate
+Filename: debs/com.cann66.cpuxpro_1.0_iphoneos-arm.deb
+Size: 3498
+MD5sum: 256aa333519759e3fb1f7cecb19bc2eb
+SHA1: dc35b72e1614603f53ac04de1dbe83f6c43e5506
+SHA256: 8fc87207f1171167bc7ba41f505f79438fb503165cbb682a0ac6d214ff6efc9e
+Section: Tweaks
+Description: Enables pro version of CPU-x app
+Author: Cann66
+Name: CPU-x Pro
+
 Package: com.cann66.dockxs
 Version: 1.01
 Architecture: iphoneos-arm
@@ -205,6 +221,22 @@ Section: Tweaks
 Description: Double click on any folder to respring
 Author: Cann66
 Name: RespringFolder
+
+Package: com.cann66.spotina
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Cann66
+Installed-Size: 136
+Depends: mobilesubstrate
+Filename: debs/com.cann66.spotina_1.0_iphoneos-arm.deb
+Size: 3194
+MD5sum: 218883b3701e3682c8f80fab0484a642
+SHA1: a1423b78faf22b964f5c2bd25131d18e79a62df0
+SHA256: 4d22dd3ad35cf6f08939afc9d76ddf7bb8e94c56c4695dce9baab899346ee4e3
+Section: Tweaks
+Description: Spotify no more ads
+Author: Cann66
+Name: Spotina
 
 Package: com.cann66.starvpnpremium
 Version: 1.2
