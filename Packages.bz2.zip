@@ -1,3 +1,19 @@
+Package: com.can296.rstphotos
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Can296
+Installed-Size: 136
+Depends: mobilesubstrate
+Filename: debs/com.can296.rstphotos_1.0_iphoneos-arm.deb
+Size: 3190
+MD5sum: cbed8529857020471718284e6891c1ea
+SHA1: 4eee730ec658463a16cb8eef6be5540d3f596030
+SHA256: 60cb7402c6c184737d21b767369e7d49373be43fd10f723a06856c50aefe61ef
+Section: Tweaks
+Description: This tweak removes the search tab in the photos app.
+Author: Can296
+Name: Remove Search Tab in Photos App
+
 Package: com.cann66.befastfilza
 Version: 1.1
 Architecture: iphoneos-arm
@@ -173,6 +189,22 @@ Section: Tweaks
 Description: No more annoying SIM message on the lock screen, and no more "No SIM" as our carrier.
 Author: Cann66
 Name: HideNoSim
+
+Package: com.cann66.mackoliknoads
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Cann66
+Installed-Size: 136
+Depends: mobilesubstrate
+Filename: debs/com.cann66.mackoliknoads_1.0_iphoneos-arm.deb
+Size: 3074
+MD5sum: df1ab2cd8a45ffd17897e00391e643ea
+SHA1: 10fcfe9e645fa2fa64a649d93c341580909e6510
+SHA256: 81a6f21ddc8b6fe66047bd6106bbca690710bb297989135da3bb4f8ece63cab1
+Section: Tweaks
+Description: Mackolik (Turkish) No Ads
+Author: Cann66
+Name: MackolikNoAds
 
 Package: com.cann66.matrixfilza
 Version: 1.0
