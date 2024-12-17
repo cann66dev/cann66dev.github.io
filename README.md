@@ -3,8 +3,8 @@
 
 
 ### 🧰 Support
-- Discord: plamglotis
-- Twitter: https://twitter.com/devplamglotis
+- Discord: can296
+- Twitter: https://twitter.com/cannot296
 
 ##  
 
