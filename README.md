@@ -4,7 +4,7 @@
 
 ### 🧰 Support
 - Discord: can296
-- Twitter: https://twitter.com/cantprk296
+- Twitter: https://twitter.com/jankarpot
 
 ##  
 
