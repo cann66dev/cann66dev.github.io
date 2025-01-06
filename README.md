@@ -3,8 +3,8 @@
 
 
 ### 🧰 Support
-- Discord: can296
-- Twitter: https://twitter.com/jankarpot
+- Discord: cansoil
+- Twitter: https://twitter.com/cansoil
 
 ##  
 
